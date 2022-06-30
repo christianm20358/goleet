@@ -1,4 +1,4 @@
-package main
+package kata_test
 
 func dotest(listArt []string, listCat []string, exp string) {
     var ans = StockList(listArt, listCat)
